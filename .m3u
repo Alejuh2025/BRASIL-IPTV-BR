@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="tvbrasil" tvg-name="TV Brasil" group-title="Canais Abertos",TV Brasil
+https://playout.cdn.tvbrasil.ebc.com.br/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvcamara" tvg-name="TV Câmara" group-title="Canais Abertos",TV Câmara
+https://stream3.camara.leg.br/tv1/manifest.m3u8
+
+#EXTINF:-1 tvg-id="tvsenado" tvg-name="TV Senado" group-title="Canais Abertos",TV Senado
+https://stream.senado.leg.br/rtv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tvjustica" tvg-name="TV Justiça" group-title="Canais Abertos",TV Justiça
+https://stream.tvjustica.jus.br/live/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="allsports" tvg-name="All Sports Brasil" group-title="Esportes",All Sports Brasil
+https://allsportsbrasil.com.br/stream.m3u8
+
+#EXTINF:-1 tvg-id="cinebrasil" tvg-name="Cine Brasil TV" group-title="Filmes",Cine Brasil TV
+https://cinebrasiltv.com.br/stream.m3u8
+
+#EXTINF:-1 tvg-id="tvcine" tvg-name="TV Cine" group-title="Filmes",TV Cine
+https://tvcine.com.br/stream.m3u8
+
+#EXTINF:-1 tvg-id="animestv" tvg-name="Animes TV" group-title="Desenhos",Animes TV
+https://animestv.com.br/stream.m3u8
+
+#EXTINF:-1 tvg-id="tvkids" tvg-name="TV Kids" group-title="Desenhos",TV Kids
+https://tvkids.com.br/stream.m3u8
